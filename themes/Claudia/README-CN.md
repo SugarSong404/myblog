@@ -67,15 +67,15 @@ social:
   facebook:
   linkedin:
   instagram:
-  github: haojen
+  github: SugarSong404
 
 # 页面 icon
 favicon: images/favicon.ico
 
 # 友情链接
 friend_links:
-  - title: Link1
-    link: https://www.link1.test.com/
+  - title: T-0N-Y的小窝
+    link: https://www.tonywu.top/
 ```
 
 ### 配置导航栏右上角菜单项
@@ -147,7 +147,7 @@ ba_track_id:
 ga_track_id: 
 ga_domain:
 ```
-	
+
 ## 创建 About 页面
 在博客根目录下的 `source` 文件夹里创建一个 `about` 文件夹, 然后打开该文件夹, 新建一个 `index.md`, 打开, 将下面这段文本复制到 `index.md` 里保存
 
@@ -158,7 +158,7 @@ date: 2017-05-31 10:05:56
 layout: about
 ---
 ```
-	
+
 ## 范例项目展示
 
 https://github.com/Haojen/Claudia-theme-blog  

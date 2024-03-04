@@ -18,13 +18,13 @@ social:
   facebook: /
   linkedin:
   instagram: /
-  github: haojen
+  github: SugarSong404
 
 user:
-  name: Haojen
-  avatar:
-  location: In the dust
-  description: May the Force be with you
+  name: 唐宋404
+  avatar: /images/tangsong.jpg
+  location: In the Chang'an
+  description: The power of life lies in disobedience
   footnotes: # footnotes
 
 # documents: https://github.com/utterance/utterances
@@ -54,14 +54,8 @@ appearance: auto # Default value is auto
 favicon: images/favicon.ico
 
 friend_links:
-  - title: Google
-    link: https://www.google.com/
-  - title: Github
-    link: https://www.github.com/
-  - title: V2EX
-    link: https://v2ex.com/
-  - title: Twitter
-    link: https://twitter.com/
+  - title: T-0N-Y的小窝
+    link: https://www.tonywu.top/
 
 # Google Analytics
 ga_track_id:
