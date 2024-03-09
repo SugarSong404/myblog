@@ -1,3 +1,5 @@
+---
+
 title: vue学习02 - vue的各类常用模块
 
 tags:    
@@ -13,8 +15,6 @@ categories:
 thumbnail: https://s2.loli.net/2024/03/05/fwhXHGV1Tex4vRU.png
 
 ---
-
-# 
 
 # 1.vue路由模块
 
